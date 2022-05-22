@@ -1,3 +1,5 @@
+#Considere a variável:A = "Um elefante incomoda muita gente". Que fatia corresponde a "elefante incomoda"?
+
 A = "Um elefante incomoda muita gente"
 
 print("A fatia correspondente a é:",A[3:20])
