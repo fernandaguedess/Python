@@ -1,4 +1,4 @@
 if 5 > 2:
   print("Five is greater than two!")
 
-  #segunda alteraçao de teste
+  '''não tinha funcionado no coemço porque eu coloquei um < em vez do sinal correto'''
