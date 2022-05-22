@@ -1,6 +1,9 @@
-x = "Bom Dia "
+#Informe o tamanho da variável string “Bom Dia”. Agora concatene com a string “, turma!”Exiba e informe o tamanho da string final.
 
-y = "turma!"
+
+x = "Bom Dia"
+
+y = ", turma!"
 
 print(x + y)
 
