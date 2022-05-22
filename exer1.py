@@ -1,4 +1,4 @@
-#o float é necessário antes do input porque a este sempre retorna uma string
+#o float é necessário antes do input porque este sempre retorna uma string
 
 x = float(input("Digite sua primeira nota:"))
 y = float(input("Digite sua segunda nota:"))
