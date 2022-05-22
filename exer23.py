@@ -1,0 +1,1 @@
+#Crie uma função que receba como parâmetro uma lista com valores de notas de alunos a função deve retornar a média, quantos elementos acima da média.
