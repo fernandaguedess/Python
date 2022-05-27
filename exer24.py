@@ -1,1 +1,0 @@
-#Escreva um programa que leia um número de 1 a 10 e mostre a tabuada desse número (multiplicação). 
