@@ -25,10 +25,6 @@ class Televisão():
             else:
                 print("O canal deve ter só números")
 
-
-
-            self.canal= self.canal+numnovoCanal
-
         def volume(self):
             return self.__volume
 
@@ -78,8 +74,6 @@ def main():
 
         else:
             print("Selecione uma opção válida :)")
-
-        time.sleep(2)
 
 main()
 
