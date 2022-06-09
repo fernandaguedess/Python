@@ -37,17 +37,17 @@ class Televisão():
                 else:
                         print("O volume deve ser entre 0 e 100")
             else:
-                print("O volume deve ser apenas números!")
+                print("O volume deve ter apenas números")
         def mudaCanal(self):
-            num = input("Mudar para CANAL: ")
+            num = input("Mudar para o canal:")
             self.canal = num
 
         def mudaVolume(self):
-            num = input("Mudar para VOLUME: ")
+            num = input("Mudar para volume:")
             self.volume = num
 
         def __str__(self):
-            return "CANAL: {} \nvolume: {}\n ".format(self.canal, self.volume)
+            return "canal: {} \nvolume: {}\n ".format(self.canal, self.volume)
 
 def main():
     tvi = Televisão()
