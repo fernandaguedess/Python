@@ -17,3 +17,27 @@ notas()
 
 
 
+ATRIBUTOS:
+
+-data da publicação
+identif(implementar que nem o saldo)
+título
+texto
+tema
+
+MÉTODOS:
+AlteraIdentf;
+AlteraNome;
+AlteraTitulo;
+AlteraTexto;
+AlteraTema;
+Publicar;
+ProgramarPublic
+ExibirDataTitulo
+ExibirPublic
+Excluir
+FiltrarPublic
+
+#pub = public("Ze","Felinos","Comida","Os gatos precisam de comer proteína. Ao contrário das pessoas e dos cães, a proteína é a fonte principal de energia na dieta dos gatos. ")
+
+#print(vars(pub))

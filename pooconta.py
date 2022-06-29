@@ -17,7 +17,8 @@ class ContaCorrente():
         def saque(self, valorSaque):
             self.saldo = self.saldo - valorSaque
 
-conta1 =ContaCorrente ("829", "Nanda")
+conta1 = ContaCorrente ("829", "Nanda")
+
 print(vars(conta1))
 
 conta1.alterarNome("Nanda Guedes")
